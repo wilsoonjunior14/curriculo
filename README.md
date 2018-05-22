@@ -2,12 +2,28 @@
 
 Engenheiro de computação, com foco em desenvolvimento de softwares voltados para dispositivos móveis e para web.
 
-## Conhecimentos
 
-* PHP (Framework CakePHP)
-* Java Web e Desktop (Frameworks Primefaces, JPA e Hibernate, JSF e Ireport)
-* Android (Plataforma AppInventor, Tecnologia híbrida com Phonegap e Cordova)
+## Formação
+* MBA em Gerenciamento de Projetos - Instituto Executivo de Formação Profissional (Em Andamento)
+* Engenharia da Computação - Universidade Federal do Ceará (Concluído)
+
+## Conhecimentos
+Desenvolvimento Web
+* **-** Back-end:
+* PHP (CakePHP e Laravel)
+* Java Web (Primefaces, RichFaces, JPA e Hibernate, JSF e Ireport)
+* **-** Front-end: Bootstrap e Materialize
+
+Desenvolvimento de Aplicações Móveis
+* Android (Nativo, AppInventor)
+* Phonegap e Cordova
+* Ionic framework
+
+Outros
 * Python
+* AngularJS
+* NodeJS
+* UML
 
 ## Projetos
 
@@ -31,7 +47,3 @@ Engenheiro de computação, com foco em desenvolvimento de softwares voltados pa
 * ----
 * 
 
-## Formação
-
-* MBA em Gerenciamento de Projetos - Instituto Executivo de Formação Profissional (Em Andamento)
-* Engenharia da Computação - Universidade Federal do Ceará (Concluído)
