@@ -26,7 +26,7 @@ Outros
 
 ## Experiência Profissional
 - Analista de Sistemas - Prefeitura Municipal de Sobral (Outubro de 2017 - Atual)
-- Desenvolvimento e manutenção do sistema integrado de gestão de obras da secretaria de obras, mobilidade e serviços públicos
+  - Desenvolvimento e manutenção do sistema integrado de gestão de obras da secretaria de obras, mobilidade e serviços públicos
 
 
 *  
