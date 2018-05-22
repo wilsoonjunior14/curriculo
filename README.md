@@ -8,22 +8,24 @@ Engenheiro de computação, com foco em desenvolvimento de softwares voltados pa
 * Engenharia da Computação - Universidade Federal do Ceará (Concluído)
 
 ## Conhecimentos
-Desenvolvimento Web
-* **-** Back-end:
+###Desenvolvimento Web
 * PHP (CakePHP e Laravel)
 * Java Web (Primefaces, RichFaces, JPA e Hibernate, JSF e Ireport)
-* **-** Front-end: Bootstrap e Materialize
+* Bootstrap e Materialize
 
-Desenvolvimento de Aplicações Móveis
+###Desenvolvimento de Aplicações Móveis
 * Android (Nativo, AppInventor)
 * Phonegap e Cordova
 * Ionic framework
 
-Outros
+###Outros
 * Python
 * AngularJS
 * NodeJS
 * UML
+
+## Experiência Profissional
+*
 
 ## Projetos
 
