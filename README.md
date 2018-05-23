@@ -1,5 +1,14 @@
 # Francisco Wilson Rodrigues Júnior
 
+## Informações Pessoais
+- Contato: (88)99924-1492
+- CPF: 038.192.773-31
+- Email: wilsoonjunior@gmail.com
+- Cidade: Sobral - Ceará
+- Endereço: Avenida Dep. João Frederico Ferreira Gomes
+- Bairro: Junco
+
+## Descrição
 Engenheiro de computação, com foco em desenvolvimento de softwares voltados para dispositivos móveis e para web.
 
 
