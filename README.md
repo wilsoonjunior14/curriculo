@@ -4,53 +4,60 @@
 
 ## Informações Pessoais
 - Contato: (88)99924-1492
-- CPF: 038.192.773-31
 - Email: wilsoonjunior@gmail.com
-- Cidade: Sobral - Ceará
-- Endereço: Avenida Dep. João Frederico Ferreira Gomes
-- Bairro: Junco
+- Cidade: Recife - Pernambuco
 
 ## Descrição
-Engenheiro de computação, com foco em desenvolvimento de softwares voltados para dispositivos móveis e para web.
+Engenheiro de computação, com foco em desenvolvimento de softwares voltados para dispositivos móveis e para web, e teste de software.
 
 
 ## Formação
-- MBA em Gerenciamento de Projetos - Instituto Executivo de Formação Profissional (Em Andamento)
-- Engenharia da Computação - Universidade Federal do Ceará (Concluído)
+- (2019 - Atual) Residência em Software no convênio CIn/Motorola - Programa de Pós-Graduação em Engenharia de Software com foco em Teste de Software na Universidade Federal de Pernambuco (Em Andamento)
+- (2017 - Atual) MBA em Gerenciamento de Projetos - Instituto Executivo de Formação Profissional (Em Andamento)
+- (2013 - 2017) Engenharia da Computação - Universidade Federal do Ceará (Concluído)
 
 ## Conhecimentos
-Desenvolvimento Web
+Desenvolvimento Web (Back-End)
 - PHP (CakePHP e Laravel)
-- Java Web (Primefaces, RichFaces, JPA e Hibernate, JSF e Ireport)
+- Java Web (Primefaces, RichFaces, JSF)
+- Python (Django)
+
+Desenvolvimento Web (Front-End)
 - Bootstrap e Materialize
+- AngularJs
+- Angular 6
+- ReactJs
+- NodeJs
 
 Desenvolvimento de Aplicações Móveis
-- Android (Nativo, AppInventor)
-- Phonegap e Cordova
+- Android Nativo
+- React Native
 - Ionic framework
 
+Teste de Software
+- Testes Manuais
+  - Regressão
+  - Exploratório
+- Testes Automatizados
+  - JUnit
+
 Outros
-- Python
-- AngularJS
-- NodeJS
+- Phonegap e AppInventor
 - UML
 - Processamento Digital de Imagens
 - Reconhecimento de Padrões
 
 ## Experiência Profissional
-- Analista de Sistemas - Prefeitura Municipal de Sobral (Outubro de 2017 - Atual)
-  - Desenvolvimento e manutenção do sistema integrado de gestão de obras da secretaria de obras, mobilidade e serviços públicos
-    - Tecnologias: JSF, RichFaces, JPA e Hibernate, Ireport e Postgresql
-  - Desenvolvimento do sistema participasol, para atendimento de ocorrências pela entidade pública
-    - Tecnologias: PHP, CakePHP, Postgresql e Android nativo
-  - Desenvolvimento do sistema de cadastro de servidores públicos
-    - Tecnologias: PHP e Postgresql
+- (Março de 2019 - Atual) Bolsista - Projeto CIn/Motorola
+  - Teste de software em dispositivos móveis
 
-- Estágio - Siaratec (Maio de 2017 - Julho de 2017)
+- (Outubro de 2017 - Março de 2019) Analista de Sistemas - Prefeitura Municipal de Sobral 
+  - Desenvolvimento de Sistemas voltados para Secretaria de Gestão e de Obras
+
+- (Maio de 2017 - Julho de 2017) Estagiário - Siaratec
   - Desenvolvimento de sistema web comercial
-    - Tecnologias: PHP, CAkePHP e MySQL
   
-- Bolsista - Divisão de Tecnologia da Informação da Universidade Federal do Ceará (Agosto de 2016 - Setembro de 2017)
+- (Agosto de 2016 - Setembro de 2017) Bolsista - Divisão de Tecnologia da Informação da Universidade Federal do Ceará
   - Manutenção de computadores e redes de computadores
 
 ## Outros
