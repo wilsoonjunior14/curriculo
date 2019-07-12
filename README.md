@@ -1,3 +1,5 @@
+<img src="https://avatars2.githubusercontent.com/u/19149664?s=460&v=4" width="100" height="100" />
+
 # Francisco Wilson Rodrigues Júnior
 
 ## Informações Pessoais
